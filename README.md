@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# Basic React Dapp Example
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Contract running on Robsten Testnet Network: 
 
-Try running some of the following tasks:
+https://ropsten.etherscan.io/address/0x693F885F0CF1adDDD801a252B909AB91Bfd23B4f
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/deploy.js
-npx hardhat help
-```
+1. Install MetaMask
+2. Set your 'env' values
+3. Run React App
+
